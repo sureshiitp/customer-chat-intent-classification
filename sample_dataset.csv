@@ -1,0 +1,4 @@
+customer_chat,intent
+I want refund,refund_request
+App not opening,technical_issue
+Change my password,account_help

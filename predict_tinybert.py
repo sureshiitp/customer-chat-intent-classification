@@ -1,0 +1,1 @@
+print('TinyBERT prediction script placeholder')
